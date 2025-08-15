@@ -1,4 +1,4 @@
-###AI vs Human Text Classifier
+AI vs Human Text Classifier
 
 A machine learning project to classify whether a given text is written by a human or AI.
 This project uses Python, Pandas, NumPy, and Scikit-learn, along with multiple ML models such as Logistic Regression, Decision Tree, and Naive Bayes to compare performance.
